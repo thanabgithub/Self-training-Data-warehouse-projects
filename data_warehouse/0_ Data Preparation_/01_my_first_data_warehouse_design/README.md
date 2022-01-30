@@ -28,4 +28,4 @@ Here is the background of the database from the SQL book
 
 Actually, I'm not sure whether I designed correctly or not but this is my dimensional data modeling design.
 
-![Original data model](https://github.com/thanabgithub/my_study_journal/blob/main/data_warehouse/0_%20Data%20Preparation_/01_my_first_data_warehouse_design/conference_OLAP_AFTER.PNG)
+![dimensional data model](https://github.com/thanabgithub/my_study_journal/blob/main/data_warehouse/0_%20Data%20Preparation_/01_my_first_data_warehouse_design/conference_OLAP_AFTER.PNG)
