@@ -22,10 +22,10 @@ Here is the background of the database from the SQL book
         into tables. This may seem like a large number of business asks to capture, but any
         complex problem can be broken down into simple components.
 
-![Original data model](https://github.com/thanabgithub/my_study_journal/blob/main/data_warehouse/0_%20Data%20Preparation_/01_my_first_data_warehouse_design/conference_OLAP_AFTER.PNG)
+![Original data model](https://github.com/thanabgithub/my_study_journal/blob/main/data_warehouse/0_%20Data%20Preparation_/01_my_first_data_warehouse_design/conference_OLTP_BEFORE.PNG)
 
 ## Result
 
 Actually, I'm not sure whether I designed correctly or not but this is my dimensional data modeling design.
 
-![Original data model](conference_OLAP_AFTER.png)
+![Original data model](https://github.com/thanabgithub/my_study_journal/blob/main/data_warehouse/0_%20Data%20Preparation_/01_my_first_data_warehouse_design/conference_OLAP_AFTER.PNG)
