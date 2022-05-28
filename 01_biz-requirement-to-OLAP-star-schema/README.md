@@ -1,4 +1,4 @@
-## This project Problem
+## This Project Problem
 
     The SurgeTech Conference
         You are a staff member for the SurgeTech conference, a gathering of tech startup
