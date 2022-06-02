@@ -9,13 +9,13 @@
         into tables. This may seem like a large number of business asks to capture, but any
         complex problem can be broken down into simple components.
 
-![Original data model](https://github.com/thanabgithub/my_study_journal/blob/main/data_warehouse/0_%20Data%20Preparation_/01_my_first_data_warehouse_design/conference_OLTP_BEFORE.PNG)
+![Original data model](https://github.com/thanabgithub/database-design_data-warehouse/edit/main/01_biz-requirement-to-OLAP-star-schema/conference_OLTP_BEFORE.PNG)
 
 ## Result
 
 this is my dimensional data modeling design.
 
-![dimensional data model](https://github.com/thanabgithub/my_study_journal/blob/main/data_warehouse/0_%20Data%20Preparation_/01_my_first_data_warehouse_design/conference_OLAP_AFTER.PNG)
+![dimensional data model](https://github.com/thanabgithub/database-design_data-warehouse/edit/main/01_biz-requirement-to-OLAP-star-schema//conference_OLAP_AFTER.PNG)
 
 ## Tool
 
