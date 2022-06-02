@@ -15,7 +15,7 @@
 
 this is my dimensional data modeling design.
 
-![dimensional data model](https://github.com/thanabgithub/database-design_data-warehouse/edit/main/01_biz-requirement-to-OLAP-star-schema//conference_OLAP_AFTER.PNG)
+![dimensional data model](https://github.com/thanabgithub/database-design_data-warehouse/edit/main/01_biz-requirement-to-OLAP-star-schema/conference_OLAP_AFTER.PNG)
 
 ## Tool
 
